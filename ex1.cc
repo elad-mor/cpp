@@ -7,7 +7,7 @@ using std::endl;
 
 int main()
 {
-  double side1, side2, side3, s; //declaring 3 doubles for each side of a triangle and one double to except the perimeter of the triangle.
+  double side1, side2, side3, s; //declaring 3 doubles for each side of a triangle and one double to accept the perimeter of the triangle.
   
   cin << side1 << side2 << side 3; //add input for each side of the triangle.
   s = (side1 + side2 + side3) / 2;
